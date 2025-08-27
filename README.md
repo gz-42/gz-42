@@ -47,7 +47,7 @@
 
 🔹 **Storage:** Ceph, ZFS, PersistentVolumes
 
-🔹 **Networking:** MikroTik RouterOS, VLANs, OSPF, Zero-trust segmentation
+🔹 **Networking:** MikroTik RouterOS, VLANs,VXLAN, BGP, OSPF, Zero-trust segmentation
 
 🔹 **Languages:** Bash, Python, C/C++
 

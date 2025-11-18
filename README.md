@@ -79,5 +79,3 @@ Multi-AZ AWS infrastructure with GitOps deployment pipeline, featuring:
 - [LinkedIn](https://www.linkedin.com/in/keobun/)
 - [Email](mailto:keo.khemara.bun@gmail.com)
 
-*Currently seeking SRE/DevOps Engineer opportunities*
-
